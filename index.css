@@ -1,1 +1,46 @@
-sds
+h1{
+    color: blue;
+}
+a{
+    color:chocolate;
+}
+h6{
+    color:red;
+}
+p{
+    font-family: fantasy;
+    font-size: 20px;
+}
+#hate{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: blanchedalmond;
+}
+.friend{
+    background-color: darkgrey;
+}
+.blog{
+    background-color: blueviolet;
+}
+.some{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin:1px;
+    padding: 3px;
+    height: 300px;
+    width: 49%;
+    float: left;
+    display: inline-block;
+    text-align: justify;
+}
+.box1{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+
+}
+.boxdemo{
+    height: 120px;
+    width: 50%;
+    float: left;
+}
